@@ -1,0 +1,22 @@
+{
+  "checked": "2026-10-20",
+  "source": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-messages-management",
+  "source_capacity_pack": "https://learn.microsoft.com/en-us/microsoft-365/copilot/pay-as-you-go/copilot-capacity-packs",
+  "copilot_credits": {
+    "classic_answer": 1,
+    "generative_answer": 2,
+    "agent_action": 5,
+    "tenant_graph_grounding": 10,
+    "agent_flow_actions_per_100": 13,
+    "content_processing_per_page": 8,
+    "text_ai_basic_per_1k_tokens": 0.1,
+    "text_ai_standard_per_1k_tokens": 1.5,
+    "text_ai_premium_per_1k_tokens": 10
+  },
+  "billing": {
+    "capacity_pack_usd_per_month": 200,
+    "capacity_pack_credits": 25000,
+    "pay_as_you_go_usd_per_credit": 0.01,
+    "credits_roll_over": false
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "support agent, scripted answers",
+    "per_month": 3000,
+    "per_interaction": {"classic_answer": 1}
+  },
+  {
+    "name": "support agent, grounded generative",
+    "per_month": 3000,
+    "per_interaction": {"generative_answer": 1, "tenant_graph_grounding": 1, "agent_action": 1}
+  },
+  {
+    "name": "support agent, grounded generative on a reasoning model",
+    "per_month": 3000,
+    "per_interaction": {"generative_answer": 1, "tenant_graph_grounding": 1, "agent_action": 1, "premium_tokens_per_interaction": 1200}
+  }
+]

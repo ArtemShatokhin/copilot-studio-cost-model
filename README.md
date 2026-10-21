@@ -58,6 +58,8 @@ A workload is a `name`, a `per_month` count and a `per_interaction` object. The 
 - The annual pre-purchase plan and its tiered discounts.
 - Your provider invoices or engineering time. This prices Microsoft's meter.
 
+What a credit buys, and where the pack and meter routes land for two more workloads, is worked through on the campaign site: [what a Copilot Studio credit buys](https://opensourcecopilotalternative.com/copilot-studio-credits) and [Copilot Studio pricing](https://opensourcecopilotalternative.com/copilot-studio-pricing).
+
 ## The other meter
 
 [Kortix](https://kortix.com) is the open-source AI Operating System, and its credits buy something different. From the [Kortix pricing](https://kortix.com/pricing) page: "Credits pay for the agent computer: the cloud machine where your agent runs code, browses and edits files. It bills per second while it runs and costs nothing while it is stopped." Model calls go to your own provider key or to the ChatGPT subscription you already pay for. Any model provider with your own keys. Open source. Read it, fork it, audit it. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
